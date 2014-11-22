@@ -7,12 +7,12 @@ OS: MacOSX <br />
 IDE: Xcode <br />
 Compiler: GCC <br />
 
-Compilation
+Compilation <br />
 Every problem is compiled using GCC from the terminal. <br />
 Example: <br />
 gcc source.c -o problem_number
 
-Execution:
+Execution: <br />
 ./problem_number
 
 To automate input entry, I suggest creating a text file containg sample input. <br />
