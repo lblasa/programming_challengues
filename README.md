@@ -1,20 +1,22 @@
-programming_challengues
+Programming Challengues
 =======================
 
 This is a collection of UVA problems solved by the author. 
 
-OS: MacOSX
-IDE: Xcode
-Compiler: GCC
+OS: MacOSX <br />
+IDE: Xcode <br />
+Compiler: GCC <br />
 
 Compilation
-Every problem is compiled using GCC from the terminal. Example:
+Every problem is compiled using GCC from the terminal. <br />
+Example: <br />
 gcc source.c -o problem_number
 
 Execution:
 ./problem_number
 
-To automate input entry, I suggest creating a text file containg sample input. Then, it can be used like:
+To automate input entry, I suggest creating a text file containg sample input. <br />
+Then, it can be used like: <br />
 ./problem_number < text_file
 
 License
